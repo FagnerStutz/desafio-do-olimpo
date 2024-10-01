@@ -1,0 +1,21 @@
+.btnP {
+    width: 230px;
+    height: 80px;
+    border-radius: 30px;
+    border-color: #FFE500;
+
+    background: linear-gradient(90deg, #CF1717, #FFE500);
+    -webkit-background-clip: background;
+    -webkit-text-fill-color: #A30E0E;
+    font-size: 40px;
+    font-family: "Germania One", system-ui;
+    font-weight: 700;
+    font-style: bold;
+    margin-top: 20px;
+    -webkit-text-stroke: 1px #FFE500;
+    cursor: pointer;
+}
+
+.btnP:hover {
+    background: linear-gradient(30deg, #CF1717, #ca3636);
+}

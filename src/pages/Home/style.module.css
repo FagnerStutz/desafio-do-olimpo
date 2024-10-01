@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:ital,wght@0,100..900;1,100..900&family=Germania+One&display=swap');
+
+.title {
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+.title h1{
+  background: linear-gradient(180deg, #CF1717, #FFE500);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 100px;
+  font-family: "Germania One", system-ui;
+  font-weight: 700;
+  font-style: bold;
+  margin-top: 20px;
+  -webkit-text-stroke: 1px #910000;
+}
+
+.txt {
+  display: flex;
+  
+}
+
+.txt p{
+  color: #FDF7EA;
+  font-family: "Georama", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  padding: 128px 0;
+  -webkit-text-stroke: 2px #857A9F;
+  text-align: center;
+}
+
+.comecar{
+  margin-left: 200px;
+  margin-right: 200px;
+}

@@ -1,0 +1,33 @@
+.resultFinal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.resultFinal img {
+    margin: auto;
+}
+
+h1 {
+    font-family: germania one;
+    font-size: 74px;
+    color: #FFE500;
+    -webkit-text-stroke: 0.1px #000;
+    margin: 30px 0;
+}
+
+.score {
+    font-family: germania one;
+    display: flex;
+    color: #F0A30E;
+    gap: 40px;
+    align-items: baseline;
+}
+
+span {
+    font-size: 180px;
+}
+
+p {
+    font-size: 80px;
+}

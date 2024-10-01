@@ -1,0 +1,23 @@
+.btnC {
+    width: 500px;
+    height: 120px;
+    border-radius: 30px;
+    border-color: #FFE500;
+
+    background: linear-gradient(90deg, #CF1717, #FFE500);
+    -webkit-background-clip: background;
+    -webkit-text-fill-color: #A30E0E;
+    font-size: 65px;
+    font-family: "Germania One", system-ui;
+    font-weight: 700;
+    font-style: bold;
+    margin-top: 20px;
+    -webkit-text-stroke: 1px #FFE500;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btnC:hover {
+    background: linear-gradient(320deg, #ff7b00, #eb5858);
+    transform: scale(1.1);
+}

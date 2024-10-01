@@ -1,0 +1,255 @@
+{
+    "questions": [
+      {
+        "question": "Quem é o senhor dos mares?",
+        "options": ["Zeus", "Poseidon", "Ares", "Netuno"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem é o deus dos raios?",
+        "options": ["Hades", "Zeus", "Apolo", "Hércules"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Qual deus é conhecido como o mensageiro?",
+        "options": ["Hermes", "Ares", "Afrodite", "Atena"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem é o deus dos mortos e do submundo?",
+        "options": ["Hades", "Apolo", "Dionísio", "Hermes"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qual deusa é conhecida como a deusa do amor e da beleza?",
+        "options": ["Hera", "Afrodite", "Ártemis", "Atena"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem foi o herói que matou a Medusa?",
+        "options": ["Aquiles", "Teseu", "Perseu", "Hércules"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quem é o deus da guerra na mitologia grega?",
+        "options": ["Ares", "Hermes", "Apolo", "Zeus"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem é a deusa da sabedoria e da estratégia de guerra?",
+        "options": ["Deméter", "Ártemis", "Atena", "Hera"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Qual deus é conhecido por forjar as armas dos deuses?",
+        "options": ["Hefesto", "Dionísio", "Ares", "Poseidon"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem foi condenado a sustentar o céu eternamente?",
+        "options": ["Prometeu", "Atlas", "Cronos", "Orfeu"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Qual deusa é a protetora das caçadas e dos animais selvagens?",
+        "options": ["Ártemis", "Hera", "Afrodite", "Atena"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem é o deus dos vinhos e das festas?",
+        "options": ["Apolo", "Hades", "Dionísio", "Hefesto"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quem foi o responsável por dar o fogo à humanidade?",
+        "options": ["Prometeu", "Hércules", "Zeus", "Poseidon"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem é a deusa do casamento e rainha dos deuses?",
+        "options": ["Hera", "Afrodite", "Atena", "Deméter"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qual é o nome da espada de Aquiles?",
+        "options": ["Excalibur", "Durandal", "Pelopida", "Xifos"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Quem foi o primeiro rei de Atenas?",
+        "options": ["Egeu", "Cécrope", "Teseu", "Perseu"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem é o deus do sol e da música?",
+        "options": ["Apolo", "Hades", "Zeus", "Ares"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem derrotou o Minotauro no labirinto de Creta?",
+        "options": ["Hércules", "Perseu", "Aquiles", "Teseu"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Quem era a mãe de Apolo e Ártemis?",
+        "options": ["Hera", "Leto", "Afrodite", "Deméter"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem é o deus da medicina?",
+        "options": ["Asclépio", "Dionísio", "Hermes", "Hades"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem é o deus do fogo e da metalurgia?",
+        "options": ["Hefesto", "Apolo", "Ares", "Poseidon"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qual herói grego foi abandonado na ilha de Lemnos?",
+        "options": ["Filoctetes", "Odisseu", "Jasão", "Orfeu"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qual deus controlava os ventos?",
+        "options": ["Eolo", "Hades", "Zeus", "Poseidon"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem era o pai de Ícaro?",
+        "options": ["Minos", "Dédalo", "Egeu", "Teseu"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Qual deusa era a guardiã da chama eterna de Roma?",
+        "options": ["Vesta", "Deméter", "Ártemis", "Atena"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem foi transformada em uma aranha por desafiar Atena?",
+        "options": ["Medusa", "Clio", "Aracne", "Afrodite"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Qual monstro tinha serpentes no lugar dos cabelos?",
+        "options": ["Quimera", "Cérbero", "Medusa", "Hidra"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quem foi o fundador da cidade de Tebas?",
+        "options": ["Cadmo", "Jasão", "Perseu", "Teseu"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qual deus é conhecido por sua rapidez e asas nos pés?",
+        "options": ["Hermes", "Zeus", "Ares", "Dionísio"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem matou o Leão de Nemeia?",
+        "options": ["Aquiles", "Hércules", "Teseu", "Perseu"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Qual era o nome do cavalo alado nascido do sangue da Medusa?",
+        "options": ["Arion", "Pegaso", "Balius", "Xanto"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem era a esposa de Hades?",
+        "options": ["Hera", "Afrodite", "Persefone", "Deméter"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quem enfrentou os pássaros do lago Estínfalo como um de seus 12 trabalhos?",
+        "options": ["Aquiles", "Hércules", "Perseu", "Teseu"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem ajudou Teseu a sair do labirinto?",
+        "options": ["Afrodite", "Atena", "Ariadne", "Medeia"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quem foi condenado a empurrar uma pedra morro acima eternamente?",
+        "options": ["Prometeu", "Atlas", "Sísifo", "Orfeu"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quem foi transformado em um cervo por Ártemis?",
+        "options": ["Atalanta", "Acteão", "Orfeu", "Teseu"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem era o pai de Jasão, o líder dos Argonautas?",
+        "options": ["Pélias", "Dédalo", "Egeu", "Esão"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Qual foi a única entidade que sobrou na caixa de Pandora?",
+        "options": ["Ódio", "Esperança", "Morte", "Medo"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem era o deus do tempo?",
+        "options": ["Cronos", "Caos", "Zeus", "Urano"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qual titã foi o responsável por devorar seus filhos?",
+        "options": ["Atlas", "Prometeu", "Cronos", "Hipérion"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quem era o guardião do submundo com três cabeças?",
+        "options": ["Cérbero", "Hidra", "Quimera", "Orfeu"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem guiava a carruagem do sol diariamente?",
+        "options": ["Zeus", "Hermes", "Apolo", "Hélios"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Qual deus libertou Prometeu da punição de Zeus?",
+        "options": ["Hércules", "Aquiles", "Teseu", "Perseu"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quem era o rei de Esparta, marido de Helena?",
+        "options": ["Menelau", "Agamenon", "Teseu", "Odisseu"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qual herói grego foi reconhecido por sua grande inteligência?",
+        "options": ["Aquiles", "Odisseu", "Hércules", "Perseu"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem era o deus da vingança?",
+        "options": ["Ares", "Nêmesis", "Hades", "Zeus"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem governava a ilha de Creta e encomendou o labirinto?",
+        "options": ["Minos", "Perseu", "Agamenon", "Aquiles"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qual era o nome da esposa de Perseu?",
+        "options": ["Medeia", "Andrômeda", "Helena", "Hera"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quem foi a primeira mulher criada por Hefesto, segundo o mito?",
+        "options": ["Atena", "Pandora", "Afrodite", "Ártemis"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Qual deus é o pai de Hércules?",
+        "options": ["Zeus", "Poseidon", "Ares", "Apolo"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+  
